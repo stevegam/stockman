@@ -1,0 +1,1 @@
+C:\Program Files\Android\Android Studio\plugins\android\lib\templates\gradle-projects\NewAndroidModule\root\res\mipmap-xhdpi\ic_launcher.png
